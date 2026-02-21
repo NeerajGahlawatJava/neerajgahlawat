@@ -40,9 +40,9 @@ Selenium • ATS Framework • API Automation
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add link)
-- 💻 GitHub: https://github.com/username
-- ✉️ Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/neeraj-54927876/
+- 💻 GitHub: https://github.com/NeerajGahlawatJava
+- ✉️ Email: neerajgahlawatmcajava@gmail.com
 
 ---
 
